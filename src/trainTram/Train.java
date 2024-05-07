@@ -1,10 +1,4 @@
-/**
- *Name(s) and ID(s) Yuqian Cai (40187954)
- * COMP249
- * Assignment # 1
- * Part1
- * Due Date (Oct 15th)
- */
+
 package trainTram;
 import wheeledTransportation.WheeledTransportation;
 

@@ -1,13 +1,4 @@
 package transportation;
-/**
- *Name(s) and ID(s) Yuqian Cai (40187954)
- * COMP249
- * Assignment # 1
- * Part1
- * Due Date (Oct 15th)
- */
-
-//package transportation;
 
 /**
  * an abstract class, being a parent class but cannot for
